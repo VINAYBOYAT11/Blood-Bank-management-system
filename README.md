@@ -1,8 +1,8 @@
-# Blood-Bank-management-system
-
 # 🩸 Blood Bank Management System
 
 A simple terminal-based Blood Bank Management System built using Python and SQLite. This application helps manage donor registrations, blood inventory, and transfusion records effectively.
+
+---
 
 ## 📌 Features
 
@@ -12,30 +12,34 @@ A simple terminal-based Blood Bank Management System built using Python and SQLi
 - Viewing current blood inventory
 - Listing all registered donors
 
+---
+
 ## 🧰 Technologies Used
 
 - **Python 3**
 - **SQLite** (built-in Python library)
 - **Command Line Interface (CLI)**
 
+---
+
 ## 🗃️ Database Structure
 
 ### 1. `donors` Table
 
-| Column     | Type    | Description                   |
-|------------|---------|-------------------------------|
-| `id`       | INTEGER | Auto-incremented donor ID     |
-| `name`     | TEXT    | Donor's full name             |
-| `age`      | INTEGER | Donor's age                   |
-| `blood_type` | TEXT  | Donor's blood type (e.g. A+)  |
-| `contact`  | TEXT    | Contact information           |
+| Column       | Type    | Description                   |
+|--------------|---------|-------------------------------|
+| `id`         | INTEGER | Auto-incremented donor ID     |
+| `name`       | TEXT    | Donor's full name             |
+| `age`        | INTEGER | Donor's age                   |
+| `blood_type` | TEXT    | Donor's blood type (e.g., A+) |
+| `contact`    | TEXT    | Contact information           |
 
 ### 2. `inventory` Table
 
-| Column     | Type    | Description                   |
-|------------|---------|-------------------------------|
-| `blood_type` | TEXT  | Blood group (Primary Key)     |
-| `units`    | INTEGER | Available units in stock      |
+| Column       | Type    | Description                   |
+|--------------|---------|-------------------------------|
+| `blood_type` | TEXT    | Blood group (Primary Key)     |
+| `units`      | INTEGER | Available units in stock      |
 
 ### 3. (Optional) `transfusions` Table
 
