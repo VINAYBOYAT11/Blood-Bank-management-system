@@ -1,0 +1,32 @@
+🖥️ How to Run:
+  - Clone the repository:
+      bash: |
+        git clone https://github.com/yourusername/blood-bank-system.git
+        cd blood-bank-system
+
+  - Run the script:
+      note: Make sure Python 3 is installed on your system.
+      bash: |
+        python bloodbank.py
+
+  - Follow on-screen instructions via CLI.
+
+📂 Project Structure:
+  tree: |
+    blood-bank-system/
+    ├── bloodbank.py       # Main Python script
+    ├── bloodbank.db       # SQLite database (auto-created)
+    └── README.md          # Project documentation
+
+✅ To Do:
+  - Add input validation and error handling
+  - Create and manage transfusion logs
+  - GUI implementation using Tkinter or Flask (future)
+  - Export donor/inventory reports
+
+📄 License:
+  type: MIT License
+  description: This project is licensed under the MIT License. Feel free to use, modify, and distribute.
+
+❤️ Note:
+  - Made with love for learning and community use.
