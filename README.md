@@ -5,8 +5,11 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Replit-F26207?style=for-the-badge)](https://attached-files--vivanboyat9.replit.app/)
 
 > A comprehensive Blood Bank Management System built with Python to streamline blood donation, inventory, and request management.
+
+**[🌐 Live Demo →](https://attached-files--vivanboyat9.replit.app/)**
 
 </div>
 
@@ -135,6 +138,7 @@ Contributions are welcome! Feel free to:
 **Vinay Boyat**
 
 [![GitHub](https://img.shields.io/badge/GitHub-VINAYBOYAT11-181717?style=for-the-badge&logo=github)](https://github.com/VINAYBOYAT11)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Replit-F26207?style=for-the-badge)](https://attached-files--vivanboyat9.replit.app/)
 
 ---
 
